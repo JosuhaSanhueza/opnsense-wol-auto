@@ -1,4 +1,4 @@
-![OPNsense WoL Banner](./banner.png)
+![OPNsense WoL Banner](./img1.png)
 
 # 🖥️ OPNsense Auto Wake-on-LAN with Telegram Alerts 🇨🇱
 
