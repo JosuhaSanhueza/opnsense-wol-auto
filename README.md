@@ -1,3 +1,5 @@
+![OPNsense WoL Banner](./banner.png)
+
 # 🖥️ OPNsense Auto Wake-on-LAN with Telegram Alerts 🇨🇱
 
 Automate PC startup in a school or lab environment using OPNsense + Telegram + holiday detection via API.
